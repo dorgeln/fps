@@ -1,0 +1,8 @@
+fps-auth==0.0.2
+fps-contents==0.0.2
+fps-jupyterlab==0.0.2
+fps-kernels==0.0.2
+fps-nbconvert==0.0.2
+fps-terminals==0.0.2
+fps-yjs==0.0.2
+jupyverse==0.0.7
